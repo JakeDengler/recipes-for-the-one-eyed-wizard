@@ -1,0 +1,26 @@
+ .step {
+    font-weight: bold;
+    color: black;
+    font-family: Helvetica, sans-serif
+ }
+.one {
+
+    background-color: lightgreen;
+ }
+ .two {
+
+    background-color: lightcoral;
+ }
+ .three {
+
+    background-color: aqua;
+ }
+ 
+ .filler {
+    background-color: lightsalmon;
+ }
+
+ #image {
+    text-align: center;
+    background-color: black;
+ }
